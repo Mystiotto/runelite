@@ -96,4 +96,8 @@ public final class SoundEffectID
 	public final static int TOWN_CRIER_BELL_DONG = 3817;
 	public final static int TOWN_CRIER_SHOUT_SQUEAK = 3816;
 
+	public final static int MAGIC_AMBIANCE_1 = 3135;
+	public final static int MAGIC_AMBIANCE_2 = 3136;
+	public final static int MAGIC_AMBIANCE_3 = 3137;
+
 }
