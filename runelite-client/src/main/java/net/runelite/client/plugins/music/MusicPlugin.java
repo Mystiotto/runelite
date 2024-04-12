@@ -105,9 +105,9 @@ public class MusicPlugin extends Plugin
 	);
 
 	private static final Set<Integer> PRAYER_SOUNDS = ImmutableSet.of(
-		SoundEffectID.PRAYER_ACTIVATE_THICK_SKIN,
-		SoundEffectID.PRAYER_ACTIVATE_BURST_OF_STRENGTH,
-		SoundEffectID.PRAYER_ACTIVATE_CLARITY_OF_THOUGHT,
+		SoundEffectID.MAGIC_AMBIANCE_1,
+		SoundEffectID.MAGIC_AMBIANCE_2,
+		SoundEffectID.MAGIC_AMBIANCE_3,
 		SoundEffectID.PRAYER_ACTIVATE_SHARP_EYE_RIGOUR,
 		SoundEffectID.PRAYER_ACTIVATE_MYSTIC_WILL_AUGURY,
 		SoundEffectID.PRAYER_ACTIVATE_ROCK_SKIN,
